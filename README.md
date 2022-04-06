@@ -1,6 +1,7 @@
 # wisata_bandung
 
-A new Flutter project.
+A Flutter App, contains a list of vacation place in Bandung, Indonesia.
+Learned from [Dicoding](https://dicoding.com)
 
 ## Getting Started
 
