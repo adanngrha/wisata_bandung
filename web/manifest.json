@@ -1,6 +1,6 @@
 {
-    "name": "wisata_bandung",
-    "short_name": "wisata_bandung",
+    "name": "Wisata_Bandung",
+    "short_name": "Wisata_Bandung",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
